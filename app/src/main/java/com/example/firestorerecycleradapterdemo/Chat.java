@@ -4,6 +4,8 @@ import com.google.firebase.firestore.Exclude;
 
 import java.util.Date;
 
+/*Chat Model*/
+
 public class Chat {
 
     String userid,sender, message;
